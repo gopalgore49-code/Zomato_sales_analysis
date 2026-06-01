@@ -1,4 +1,3 @@
-# Zomato_sales_analysisBased on your Power BI dashboard, here is a professional README for your GitHub repository:
 
 # 🍽️ Zomato Sales Analysis Dashboard (Power BI)
 
