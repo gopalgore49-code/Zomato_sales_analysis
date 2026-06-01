@@ -109,12 +109,4 @@ Gopal Gore
 
 If you found this project useful, please give it a ⭐ on GitHub.
 
-Copy this content into your `README.md` file and commit it:
-
-```bash
-git add README.md
-git commit -m "Added project README"
-git push origin main
-```
-
 For a fresher Data Analyst portfolio, I can also create a more attractive README with badges, KPI cards, screenshots section, and recruiter-friendly formatting.
